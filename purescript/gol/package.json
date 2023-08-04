@@ -1,0 +1,15 @@
+{
+  "name": "gol",
+  "version": "1.0.0",
+  "description": "Game of Life implementation in purescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antonio Zea Jr",
+  "license": "ISC",
+  "devDependencies": {
+    "purescript": "^0.15.8",
+    "spago": "^0.20.9"
+  }
+}
